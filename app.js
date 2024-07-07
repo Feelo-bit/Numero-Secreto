@@ -1,7 +1,7 @@
 let num = 0;
 let intentos=0;
 let lista =[];
-let numeromax = 1;
+let numeromax = 10;
 
 function AsignarTextoElemento(elemento, texto) {
     let elementoHTML =document.querySelector(elemento);
